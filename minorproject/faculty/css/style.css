@@ -1,0 +1,83 @@
+#main-wrapper{
+
+	width:500px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.7);
+	padding:10px;
+	border-radius:10px;
+}
+.avatar{
+	
+	width:100px;
+	text-align:center;
+}
+.myform{
+	width:450px;
+	margin: 0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin: 0 auto;
+	padding:5px;
+	margin-bottom:2px;
+	margin-top:2px;
+}
+#loginbtn{
+	background-color:#f1c40f;
+	padding: 5px;
+	width: 100%;
+	color: white;
+	font-size:18px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+#registerbtn{
+	background-color:#2980b9;
+	padding:5px;
+	width: 100%;
+	color: white;
+	font-size:18px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+body {
+    background-image: url("https://images5.alphacoders.com/421/thumb-350-421124.jpg");
+    background-repeat: no-repeat;
+	background-size: 1370px 670px;
+}
+	
+#signupbtn{
+	background-color:#3498db;
+	padding:5px;
+	width: 100%;
+	color: white;
+	font-size:18px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+#backbtn{
+	background-color:#f39c12;
+	padding: 5px;
+	width: 35%;
+	color: white;
+	font-size:14px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+#logoutbtn{
+	background-color:#D91E18;
+	padding:5px;
+	width: 100%;
+	color: white;
+	font-size:18px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 10px
+}
+#notice{
+	font-size:18px;
+	font-weight: bold;
+	color: white;
+}
+
